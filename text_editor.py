@@ -1,3 +1,5 @@
+
+#Credits: https://www.youtube.com/watch?v=wRIUnHO_6KY&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j&index=240
 import tkinter as tk
 from tkinter import ttk,colorchooser,filedialog,messagebox
 from tkinter import font
